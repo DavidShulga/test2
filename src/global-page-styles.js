@@ -3,8 +3,8 @@ import { transformVar } from "@quarkly/atomize";
 import { createGlobalStyle } from "styled-components";
 
 const pageStyles = {
-    "1": {},
-    "2": {},
+    "4": {},
+    "5": {},
     "404": {},
     "index": {}
 };
