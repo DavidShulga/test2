@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://david-shulga.ru/sitemap-index.xml
